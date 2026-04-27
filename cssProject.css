@@ -1,0 +1,103 @@
+.wrapper {
+	text-align: center;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+body {
+  font-family: 'Averia Serif Libre';
+  font-weight: 400;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Averia Serif Libre';
+  font-weight: 700;
+}
+
+html {font-size: 100%;}
+
+h1 {font-size: 4.210rem;}
+h2 {font-size: 3.158rem;} 
+h3 {font-size: 2.369rem;} 
+h4 {font-size: 1.777rem;} 
+h5 {font-size: 1.333rem;} 
+small {font-size: 0.750rem;} 
+
+body {
+  margin: 0;
+  background: #fffaf3;
+  color: #333;
+}
+
+.site-header {
+  background: #ff7b54;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.site-header h1 {
+  margin: 0;
+}
+.hero-inner {
+	max-width:1200px;
+	margin: 0 auto;
+}
+
+.foodhero img {
+  width: 100%;
+  height: 60vh;
+  object-fit: cover;
+}
+
+.content {
+  padding: 40px 20px;
+}
+
+.about {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  text-align: center;
+}
+
+.about h2 {
+  margin-bottom: 15px;
+}
+
+.food-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.food-table td {
+  padding: 10px;
+}
+
+.food-table img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+.recipe-box {
+  border: 2px solid #ccc;
+  padding: 1em;
+  margin: 1.5em 0;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.left-box {
+  text-align: left;
+}
