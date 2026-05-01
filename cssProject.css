@@ -101,3 +101,26 @@ body {
 .left-box {
   text-align: left;
 }
+
+video {
+  float: right;
+  margin: 1em;
+}
+
+#feedbackForm {
+  width: 350px;
+  margin: 0 auto;   /* This centers the form */
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input, select, textarea {
+  padding: 8px;
+  font-size: 1em;
+}
+
